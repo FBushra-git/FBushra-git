@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bushra</h1>
 <h3 align="center">Frontend Developer in Progress | Aspiring Full Stack Developer 🚀</h3>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FBushra-git&label=Profile%20Visitors&color=blue&style=flat-square" alt="visitor counter" />
+</p>
+
+
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Next.js Projects**
