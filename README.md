@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bushra</h1>
-<h3 align="center">A passionate Frontend / Next.js Developer 🚀</h3>
+<h3 align="center">Frontend Developer in Progress | Aspiring Full Stack Developer 🚀</h3>
 
 ---
 
@@ -8,14 +8,14 @@
 - 🌱 I’m currently learning **Advanced React & Full Stack Development**
 - 💬 Ask me about **JavaScript, React, Next.js**
 - 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: I love building clean & modern UI ✨
+- ⚡ Fun fact: I love building clean and modern UI ✨
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank">LinkedIn</a> |
-<a href="https://github.com/yourusername" target="blank">GitHub</a>
+<a href="https://www.linkedin.com/in/nusrat-tasmin-bushra/" target="blank">LinkedIn</a> |
+<a href="https://github.com/FBushra-git" target="blank">GitHub</a>
 </p>
 
 ---
@@ -35,29 +35,24 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FBushra-git&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FBushra-git&theme=radical" alt="streak stats" />
 </p>
 
 ---
 
 ### 🔥 Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBushra-git&layout=compact&theme=radical" />
 </p>
 
----
 
-### 📌 Featured Projects
-- 🚀 Portfolio Website – [Live Demo](#)
-- 📱 React App – [GitHub Repo](#)
-- 🌐 Next.js Project – [GitHub Repo](#)
-
----
 
 ### ❤️ Support
 If you like my work, consider giving a ⭐ to my repositories!
