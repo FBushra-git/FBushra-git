@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Next.js Projects**
 - 🌱 I’m currently learning **Advanced React & Full Stack Development**
 - 💬 Ask me about **JavaScript, React, Next.js**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: ** bushratasmin5202@gmail.com**
 - ⚡ Fun fact: I love building clean and modern UI ✨
 
 ---
