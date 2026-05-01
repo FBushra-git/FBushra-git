@@ -48,11 +48,6 @@
 
 ---
 
-### 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBushra-git&layout=compact&theme=radical" />
-</p>
 
 
 
