@@ -1,57 +1,80 @@
+<img src="YOUR_BANNER_LINK" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Bushra</h1>
-<h3 align="center">Frontend Developer in Progress | Aspiring Full Stack Developer 🚀</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=f&label=Profile%20views&color=0e75b6&style=flat" alt="f" /> </p>
-
-
-
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **Next.js Projects**
-- 🌱 I’m currently learning **Advanced React & Full Stack Development**
-- 💬 Ask me about **JavaScript, React, Next.js**
-- 📫 How to reach me: ** bushratasmin5202@gmail.com**
-- ⚡ Fun fact: I love building clean and modern UI ✨
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/nusrat-tasmin-bushra/" target="blank">LinkedIn</a> |
-<a href="https://github.com/FBushra-git" target="blank">GitHub</a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Frontend
-- HTML5, CSS3, JavaScript
-- React.js, Next.js
-- Tailwind CSS
-
-#### ⚙️ Tools & Technologies
-- Git & GitHub
-- VS Code
-- Figma
-
----
-
-### 📊 GitHub Stats
+<h3 align="center">Frontend Developer | Next.js Learner</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FBushra-git&show_icons=true&theme=radical" alt="GitHub stats" />
+📍 Sylhet, Bangladesh <br>
+📧 YOUR_EMAIL
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FBushra-git&theme=radical" alt="streak stats" />
+<a href="https://www.linkedin.com/in/nusrat-tasmin-bushra/">LinkedIn</a>
 </p>
 
 ---
 
+## 🚀 About Me
 
+Passionate frontend developer focused on building modern, responsive, and user-friendly web applications.
 
+I enjoy turning ideas into interactive digital experiences and continuously improving my development skills through real-world projects.
 
-### ❤️ Support
-If you like my work, consider giving a ⭐ to my repositories!
+- 🌱 Currently exploring **Next.js**
+- 💻 Building responsive web projects
+- 🚀 Working on portfolio & tourism website projects
+- 📚 Learning backend concepts for future full-stack development
+- 🎯 Focused on writing clean and scalable code
 
 ---
+
+## 🛠 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FBushra-git&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FBushra-git&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBushra-git&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+✔ Mastering **Next.js**  
+✔ Building real-world projects  
+✔ Improving frontend architecture skills  
+✔ Learning backend integration
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nusrat-tasmin-bushra/">LinkedIn</a>
+</p>
+
+---
+
+## 💡 Developer Quote
+
+*"Code is not just about functionality — it's about creating experiences."*
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
