@@ -1,7 +1,7 @@
 <img src="YOUR_BANNER_LINK" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Bushra</h1>
-<h3 align="center">Frontend Developer | Next.js Learner</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
 📍 Sylhet, Bangladesh <br>
