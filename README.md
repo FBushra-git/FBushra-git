@@ -5,7 +5,6 @@
 
 <p align="center">
 📍 Sylhet, Bangladesh <br>
-📧 YOUR_EMAIL
 </p>
 
 <p align="center">
