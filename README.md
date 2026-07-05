@@ -1,4 +1,4 @@
-<img src="YOUR_BANNER_LINK" width="100%" />
+<img src="./banner.png" alt="Bushra GitHub Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Bushra</h1>
 <h3 align="center">MENN Stack Developer</h3>
