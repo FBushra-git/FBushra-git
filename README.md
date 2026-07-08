@@ -190,6 +190,12 @@ Better Auth
 
 ---
 
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FBushra-git/FBushra-git/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 # 🌐 Connect With Me
 
 <p align="center">
