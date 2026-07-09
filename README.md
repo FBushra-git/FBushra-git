@@ -2,6 +2,8 @@
 
 ### 🚀 Full Stack Developer | MERN Stack Developer
 
+📍 **Sylhet, Bangladesh** • 📧 **[bushratasmin5202@gmail.com](mailto:bushratasmin5202@gmail.com)** • 📞 **+8801319244812**
+
 <p align="center">
   <img src="./banner.png" alt="Nusrat Tasmin Bushra Banner" width="100%">
 </p>
@@ -10,19 +12,21 @@
   <img src="https://komarev.com/ghpvc/?username=FBushra-git&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
 </p>
 
+---
+
 ## 👩‍💻 About Me
 
-I'm a passionate **Full Stack Developer** specializing in the **MERN Stack**. I enjoy building responsive, scalable, and user-friendly web applications with clean UI and secure backend systems. I love solving real-world problems through code and continuously learning modern technologies to improve my development skills.
+I'm a passionate **Full Stack Developer** specializing in the **MERN Stack**. I enjoy building modern, scalable, and user-friendly web applications with clean user interfaces and secure backend systems. I love solving real-world problems through code and continuously learning new technologies to improve my development skills.
 
 ---
 
 ## 🚀 Current Activities
 
-* 🌱 Exploring advanced **Next.js** architecture
-* 💻 Building production-ready **MERN Stack** applications
-* 🔐 Learning secure authentication using **JWT** & **Better Auth**
-* ⚡ Improving backend performance and REST API development
-* 📚 Practicing Data Structures & Algorithms
+* 🌱 Exploring advanced **Next.js** architecture.
+* 💻 Building production-ready **MERN Stack** applications.
+* 🔐 Learning secure authentication using **JWT** and **Better Auth**.
+* ⚡ Improving backend performance and REST API development.
+* 📚 Practicing Data Structures & Algorithms.
 
 ---
 
@@ -51,7 +55,7 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN Stack**. I 
   <img src="https://img.shields.io/badge/Better%20Auth-Secure%20Login-purple?style=for-the-badge">
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma,vercel" />
@@ -64,8 +68,10 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN Stack**. I 
 ```text
 Frontend
    ↓
-HTML • CSS • Tailwind CSS
-JavaScript
+HTML5
+CSS3
+Tailwind CSS
+JavaScript (ES6+)
 React.js
 Next.js
 
@@ -88,8 +94,10 @@ Better Auth
 
    ↓
 
-Deployment
-Git • GitHub • Vercel
+Tools & Deployment
+Git
+GitHub
+Vercel
 ```
 
 ---
@@ -99,33 +107,23 @@ Git • GitHub • Vercel
 | Frontend                | Backend                  |
 | ----------------------- | ------------------------ |
 | ✅ Responsive Web Design | ✅ REST API Development   |
-| ✅ React.js              | ✅ Express.js             |
-| ✅ Next.js               | ✅ Node.js                |
+| ✅ React.js              | ✅ Node.js                |
+| ✅ Next.js               | ✅ Express.js             |
 | ✅ Tailwind CSS          | ✅ MongoDB                |
-| ✅ React Hooks           | ✅ Authentication         |
+| ✅ React Hooks           | ✅ JWT Authentication     |
 | ✅ Modern UI Development | ✅ Secure API Integration |
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Contact Information
 
-<p>
-  <a href="https://bushra-portfolio-ebon.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-6f42c1?style=for-the-badge">
-  </a>
-
-  <a href="https://github.com/FBushra-git" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-FBushra--git-181717?style=for-the-badge&logo=github">
-  </a>
-
-  <a href="https://www.linkedin.com/in/nusrat-tasmin-bushra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bushra-blue?style=for-the-badge&logo=linkedin">
-  </a>
-
-  <a href="mailto:bushratasmin5202@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bushratasmin5202%40gmail.com-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+* 👩‍💻 **Name:** Nusrat Tasmin Bushra
+* 📍 **Location:** Sylhet, Bangladesh
+* 📧 **Email:** [bushratasmin5202@gmail.com](mailto:bushratasmin5202@gmail.com)
+* 📞 **Phone:** +8801319244812
+* 🌐 **Portfolio:** https://bushra-portfolio-ebon.vercel.app/
+* 💼 **LinkedIn:** https://www.linkedin.com/in/nusrat-tasmin-bushra/
+* 💻 **GitHub:** https://github.com/FBushra-git
 
 ---
 
@@ -160,5 +158,5 @@ Git • GitHub • Vercel
 <h3 align="center">⭐ Thank you for visiting my GitHub profile! ⭐</h3>
 
 <p align="center">
-If you like my work, feel free to ⭐ my repositories and connect with me!
+I'm always open to collaborating on exciting projects, learning new technologies, and connecting with fellow developers.
 </p>
